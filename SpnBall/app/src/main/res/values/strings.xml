@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpnBall</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="Balls">
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Volleyball</item>
+        <item>Badminton</item>
+        <item>Others</item>
+    </string-array>
+</resources>
